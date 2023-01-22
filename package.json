@@ -1,0 +1,20 @@
+{
+  "name": "wirearr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "engines": {
+    "node": "^16.14.0",
+    "yarn": "~1"
+  },
+  "scripts": {
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/jack828/wirearr"
+  },
+  "author": "Jack Burgess <me@jackburgess.dev>",
+  "license": "MIT"
+}
